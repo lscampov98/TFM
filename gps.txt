@@ -1,0 +1,122 @@
+pais,latitud,longitud
+Albania,41.1533,20.1683
+Alemania,51.1657,10.4515
+Andorra,42.5462,1.6016
+Angola,-11.2027,17.8739
+Arabia Saudí,23.8859,45.0792
+Argelia,28.0339,1.6596
+Argentina,-38.4161,-63.6167
+Armenia,40.0691,45.0382
+Australia,-25.2744,133.7751
+Austria,47.5162,14.5501
+Azerbaiyán,40.1431,47.5769
+Bahréin,26.0667,50.5577
+Belarús,53.7098,27.9534
+Bolivia,-16.2902,-63.5887
+Bosnia y Herzegovina,43.9159,17.6791
+Brasil,-14.235,-51.9253
+Bulgaria,42.7339,25.4858
+Bélgica,50.8503,4.3517
+Camerún,7.3697,12.3547
+Canadá,56.1304,-106.3468
+Chile,-35.6751,-71.543
+China,35.8617,104.1954
+Chipre,35.1264,33.4299
+Colombia,4.5709,-74.2973
+Corea,36.2048,127.4972
+Costa Rica,9.7489,-83.7534
+Costa de Marfil,7.5399,-5.5471
+Croacia,45.1,15.2
+Cuba,21.5218,-77.7812
+Dinamarca,56.2639,9.5018
+Ecuador,-1.8312,-78.1834
+Egipto,26.8206,30.8025
+El Salvador,13.7942,-88.8965
+Emiratos Árabes Unidos,23.4241,53.8478
+Eslovenia,46.1512,14.9955
+Estados Unidos de América,37.0902,-95.7129
+Estonia,58.5953,25.0136
+Filipinas,12.8797,121.774
+Finlandia,61.9241,25.7482
+Francia,46.6034,1.8883
+Georgia,42.3154,43.3569
+Ghana,7.9465,-1.0232
+Grecia,39.0742,21.8243
+Guatemala,15.7835,-90.2308
+Guinea Ecuatorial,1.6508,10.2679
+Honduras,15.1999,-86.2419
+Hungría,47.1625,19.5033
+India,20.5937,78.9629
+Indonesia,-0.7893,113.9213
+Iraq,33.2232,43.6793
+Irlanda,53.1424,-7.6921
+Irán,32.4279,53.688
+Islandia,64.9631,-19.0208
+Israel,31.0461,34.8516
+Italia,41.8719,12.5674
+Jamaica,18.1096,-77.2975
+Japón,36.2048,138.2529
+Jordania,30.5852,36.2384
+Kazajstán,48.0196,66.9237
+Kenia,-1.286389,36.817223
+Kirguistán,41.2044,74.7661
+Kuwait,29.3117,47.4818
+Letonia,56.8796,24.6032
+Liechtenstein,47.166,9.5554
+Lituania,55.1694,23.8813
+Luxemburgo,49.8153,6.1296
+Líbano,33.8547,35.8623
+Macedonia del Norte,41.9981,21.4254
+Madagascar,-18.7669,46.8691
+Malasia,4.2105,101.9758
+Mali,17.5707,-3.9962
+Malta,35.9375,14.3754
+Marruecos,31.7917,-7.0926
+Mauricio,-20.3484,57.5522
+Mauritania,21.0079,-10.9408
+Moldavia,47.4116,28.3699
+Montenegro,42.7087,19.3744
+Mozambique,-18.6657,35.5296
+Myanmar,21.9162,95.956
+México,23.6345,-102.5528
+Mónaco,43.7384,7.4246
+Nepal,28.3949,84.124
+Nicaragua,12.8654,-85.2072
+Nigeria,9.082,8.6753
+Noruega,60.472,8.4689
+Nueva Zelanda,-40.9006,174.886
+Omán,21.5126,55.9233
+Otros países de Asia,28.6139,77.209
+Pakistán,30.3753,69.3451
+Panamá,8.537981,-80.782127
+Paraguay,-23.4425,-58.4438
+Países Bajos,52.1326,5.2913
+Perú,-9.189967,-75.015152
+Polonia,51.9194,19.1451
+Portugal,39.3999,-8.2245
+Qatar,25.3548,51.1839
+Reino Unido,55.3781,-3.436
+República Checa,49.8175,15.473
+República Dominicana,18.7357,-70.1627
+República Eslovaca,48.669,19.699
+Rumanía,45.9432,24.9668
+Rusia,61.524,105.3188
+Senegal,14.4974,-14.4524
+Serbia,44.0165,21.0059
+Singapur,1.3521,103.8198
+Sri Lanka,7.8731,80.7718
+Sudáfrica,-30.5595,22.9375
+Suecia,60.1282,18.6435
+Suiza,46.8182,8.2275
+Tailandia,15.87,100.9925
+Tanzania,-6.369,34.8888
+Trinidad y Tobago,10.6918,-61.2225
+Turquía,38.9637,35.2433
+Túnez,33.8869,9.5375
+Ucrania,48.3794,31.1656
+Uganda,1.3733,32.2903
+Uruguay,-32.5228,-55.7658
+Uzbekistán,41.3775,64.5853
+Venezuela,6.4238,-66.5897
+Vietnam,14.0583,108.2772
+Zimbabwe,-19.0154,29.1549
